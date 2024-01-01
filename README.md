@@ -8,6 +8,5 @@
 | RAM | 8 GB DDR4 2400MHz |
 | iGPU | AMD Radeon Vega 3 2Gb |
 | WiFi | Intel AC-3168NGW |
-# ryzen 3250u vega 3 2Gb Ram 8 gb 
-# apalakaka
+# 
 ---------------------------------------------------------------------
