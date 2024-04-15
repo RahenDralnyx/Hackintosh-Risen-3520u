@@ -17,7 +17,7 @@
 -Expoler++
 -mini tool partiton wizard
 --------------------------------------------------------
-cara
+# cara
 -buat instaler mac os
 -copy EFI X64_d0.9.7 4 ke bootable 
 -instal seperti biasa (kanan 3 kali)
