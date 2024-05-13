@@ -11,20 +11,20 @@
 # 
 ---------------------------------------------------------------------
 # Bahan-Bahan 
--usb instaler/bootload mac 
--EFI Sebelum install (X64_d0.9.7 4)
--EFI sesudah install (arsip 3250u)
--Expoler++
--mini tool partiton wizard
+- usb instaler/bootload mac 
+- EFI Sebelum install (X64_d0.9.7 4)
+- EFI sesudah install (arsip 3250u)
+- Expoler++
+- mini tool partiton wizard
 --------------------------------------------------------
 # cara
--buat instaler mac os
--copy EFI X64_d0.9.7 4 ke bootable 
--instal seperti biasa (kanan 3 kali)
--reboot ke windows 
--copy file EFI Arsip 3250u ke bootable
--reboot ke macos
--copy dan paste EFI di boottable ke EFI Mac os
+- buat instaler mac os
+- copy EFI X64_d0.9.7 4 ke bootable 
+- instal seperti biasa (kanan 3 kali)
+- reboot ke windows 
+- copy file EFI Arsip 3250u ke bootable
+- reboot ke macos
+- copy dan paste EFI di boottable ke EFI Mac os
 
 *catatan 30/12/23
 jika audio bermasalah copy kembali file EFI JANGAN DI RESTRAT TAPI DI SWOUT DOWN
